@@ -6,3 +6,4 @@ In this project I used knowledge that I learned from my first academic year and 
 
 ## Screenshots
 ![Screenshot](Image1.png)
+![Screenshot](Image2.png)
